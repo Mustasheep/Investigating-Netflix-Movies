@@ -6,14 +6,13 @@ import matplotlib.pyplot as plt
 netflix_df = pd.read_csv("netflix_data.csv")
 print(netflix_df.head())
 print(netflix_df.info())
-print(netflix_df.shape)
 print(netflix_df.columns)
 
 # Filtrando as colunas que serão úteis no projeto
 filmes_filtrados = netflix_df[["title", "release_year", "duration", "genre"]]
 
 # Modelando dados e preparando para análise
-filmes_1990 = filmes_filtrados[np.logical_and(filmes_filtrados["release_year"] >= 1990,filmes_filtrados["release_year"] <= 1999)].sort_values(by='release_year')
+filmes_1990 = filmes_filtrados[(filmes_filtrados["release_year"] >= 1990) & (filmes_filtrados["release_year"] <= 1999)].sort_values(by='release_year')
 print(filmes_1990.to_string(index=False))
 
 # Calculando a mediana da duração dos filmes
