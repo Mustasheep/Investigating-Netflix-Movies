@@ -1,25 +1,29 @@
-## *Investigando filmes na Netflix* 🎬
+## *Mergulhando no Cinema dos Anos 90 na Netflix: Uma Viagem Curta e Agradável* 🎬
 
-Este é um dataset do catálogo de filmes na Netflix, abordando vários gêneros de diversos anos, suas durações, descrições, assim como sua data de postagem no streaming. O objetivo deste dataset é apresentar apenas filmes da década de 90, apresentar a normalidade da duração desses filmes da época e citar os 7 filmes com uma duração razoavelmente baixa, para assistir sem ocupar muito na rotina.
+Este dataset é um portal para o catálogo de filmes da Netflix, com foco especial nos anos 90. Ele nos permite explorar uma variedade de gêneros, durações e descrições, além de saber quando cada filme chegou ao streaming.
 
-![alt text](dataset.png)
+![alt text](dataset.jpeg)
 
 _O dataset possui 4812 linhas e 11 colunas_
 
-## **Filtrando colunas e modelando os dados ⚙** 
+## **Desvendando os Dados 🔍** 
 
-* Em primeiro lugar foi necessário o isolamento de colunas desnecessárias para o projeto e fateando para obter apenas filmes da década de 90, totalizando 184 linhas.
+* Começamos filtrando o dataset para incluir apenas os filmes lançados entre 1990 e 1999. Isso resultou em um conjunto de 184 filmes, prontos para análise..
 
-![alt text](filmes_filtrados.png)
+![alt text](filmes_filtrados.jpeg)
 
-## **Normalidade da duração 📊**
+## **A Duração Ideal: Explorando a Mediana 📊**
 
-* Ao calcular a mediana, foi gerado o gráfico a seguir para melhor visualização, destacando o valor desejado para obtermos a mediana da duração dos filmes nesta época.
+* Para entender a duração média dos filmes dos anos 90, calculamos a mediana. O gráfico resultante nos revelou que a maioria dos filmes dessa época tem uma duração próxima a 100 minutos.
 
-![alt text](grafico.png)
+![alt text](grafico.jpeg)
 
-## **Filmes consideravelmente curtos 📽**
+## **Escolha Sua Aventura: 7 Filmes para Maratonar 📽**
 
-* Por fim, podemos escolher o gênero de preferência para obter uma pequena lista de filmes para assistir de curta duração.
+* Agora, você pode mergulhar em uma seleção de filmes com durações consideravelmente menores, sem abrir mão da experiência cinematográfica dos anos 90.
 
-![alt text](lista.png)
+![alt text](lista.jpeg)
+
+Basta escolher o gênero que mais te agrada e embarcar em uma jornada rápida e envolvente!
+
+Prepare a pipoca e aproveite! 🍿
