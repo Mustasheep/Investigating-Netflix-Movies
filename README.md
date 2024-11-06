@@ -1,6 +1,6 @@
 ## *Mergulhando no Cinema dos Anos 90 na Netflix: Uma Viagem Curta e Agradável* 🎬
 
-Este dataset é um portal para o catálogo de filmes da Netflix, com foco especial nos anos 90. Ele nos permite explorar uma variedade de gêneros, durações e descrições, além de saber quando cada filme chegou ao streaming.
+Este dataset é um portal para o catálogo de filmes da Netflix. Ele nos permite explorar uma variedade de gêneros, durações e descrições, além de saber quando cada filme chegou ao streaming.
 
 ![alt text](dataset.png)
 
