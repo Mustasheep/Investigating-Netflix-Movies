@@ -2,7 +2,7 @@
 
 Este dataset é um portal para o catálogo de filmes da Netflix, com foco especial nos anos 90. Ele nos permite explorar uma variedade de gêneros, durações e descrições, além de saber quando cada filme chegou ao streaming.
 
-![alt text](dataset.jpeg)
+![alt text](dataset.png)
 
 _O dataset possui 4812 linhas e 11 colunas_
 
