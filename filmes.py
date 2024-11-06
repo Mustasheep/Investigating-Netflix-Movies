@@ -4,7 +4,10 @@ import matplotlib.pyplot as plt
 
 # Importando o CSV da Netflix como um DataFrame
 netflix_df = pd.read_csv("netflix_data.csv")
-print(netflix_df)
+print(netflix_df.head())
+print(netflix_df.info())
+print(netflix_df.shape())
+print(netflix_df.describe())
 
 # Filtrando as colunas que serão úteis no projeto
 filmes_filtrados = netflix_df[["title", "release_year", "duration", "genre"]]
