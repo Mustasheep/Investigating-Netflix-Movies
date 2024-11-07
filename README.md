@@ -30,7 +30,7 @@ _O dataset possui 4812 linhas e 11 colunas_
 
 
 
-## **Escolha Sua Aventura: 7 Filmes para Maratonar 📽**
+## **Escolha Sua Aventura: Filmes para Maratonar 📽**
 
 
 * Agora, você pode mergulhar em uma seleção de filmes com durações consideravelmente menores, sem abrir mão da experiência cinematográfica dos anos 90.
